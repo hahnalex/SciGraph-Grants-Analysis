@@ -4,3 +4,4 @@
 data/grid_database/
 data/neo4j
 data/springernature*
+out/triples
