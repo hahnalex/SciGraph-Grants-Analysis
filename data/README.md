@@ -12,7 +12,7 @@ Download the 'Grants' dataset. This comes as a .nt.bz2 compressed file. Once unc
 
 ### GRID Database
 
-In order to run `[...]/SciGraph/src/scigraph_grants.py` you must also have the GRID database stored in this `data` directory.
+In order to run `[...]/SciGraph/src/scigraph_grants.py` you must also have the GRID database stored in this `data/` directory.
 
 [GRID Database Download](https://www.grid.ac/downloads)
 
