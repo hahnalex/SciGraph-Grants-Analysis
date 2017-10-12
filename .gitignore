@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+data/grid_database/
+data/neo4j
+data/springernature*
